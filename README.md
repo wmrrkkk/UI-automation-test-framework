@@ -1,5 +1,5 @@
 # UI-automation-test-framework
-Framework for UI automation test.
+Framework for UI automation test.  
 1.使用方法：修改config.ini文件的配置后运行test_suit目录下的report_send_mail.py文件启动测试  
 2.目录介绍：  
     base_page:存储基类文件，包括页面基类、浏览器引擎选择、日志记录器、测试报告生成器等；  
