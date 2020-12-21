@@ -2,8 +2,8 @@
 Framework for UI automation test.  
 1.使用方法：修改config.ini文件的配置后运行test_suit目录下的report_send_mail.py文件启动测试  
 2.目录介绍：  
-|  目录  |  介绍  |
-|  ----  |  ----  |
+目录|介绍
+:-:|-
 base_page|存储基类文件，包括页面基类、浏览器引擎选择、日志记录器、测试报告生成器等
 logs|存储UI自动化测试日志文件
 page_object|存储项目的各页面类文件
