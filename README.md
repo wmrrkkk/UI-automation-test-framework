@@ -1,5 +1,5 @@
 # UI-automation-test-framework
-Framework for UI automation test.  
+基于Python+Selenium+unittest的UI自动化测试框架。  
 1.使用方法：修改config.ini文件的配置后运行test_suit目录下的report_send_mail.py文件启动测试  
 2.目录介绍：  
 目录|介绍
